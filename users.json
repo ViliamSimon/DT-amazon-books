@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "66661b68c81c416e91b2d41b"
+  },
+  "first_name": "Viliam",
+  "last_name": "Simon",
+  "birth_date": "2003-02-11",
+  "gender": "Male",
+  "age": 21,
+  "email": "viliam.simon@student.ukf.sk",
+  "address": {
+    "street": "Tomášikova",
+    "postal_code": "90877",
+    "city": "Borský Mikuláš",
+    "state": "TN",
+    "country": {
+      "name": "Senica",
+      "abbreviation": "SE",
+      "nation": "Slovak Republic"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66661b8bc81c416e91b2d41d"
+  },
+  "first_name": "Denis",
+  "last_name": "Simon",
+  "birth_date": "1998-09-25",
+  "gender": "Male",
+  "age": 25,
+  "email": "denis.simon@student.ukf.sk",
+  "address": {
+    "street": "Tomášikova",
+    "postal_code": "90877",
+    "city": "Borský Mikuláš",
+    "state": "TN",
+    "country": {
+      "name": "Senica",
+      "abbreviation": "SE",
+      "nation": "Slovak Republic"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "66661bedc81c416e91b2d420"
+  },
+  "first_name": "Marek",
+  "last_name": "Sedivy",
+  "birth_date": "2003-03-28",
+  "gender": "Male",
+  "age": 21,
+  "email": "marek.sedivy@student.ukf.sk",
+  "address": {
+    "street": "Dlha",
+    "postal_code": "904 01",
+    "city": "Senica",
+    "state": "TN",
+    "country": {
+      "name": "Senica",
+      "abbreviation": "SE",
+      "nation": "Slovak Republic"
+    }
+  }
+}]

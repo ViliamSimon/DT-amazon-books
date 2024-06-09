@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "66661c66c81c416e91b2d423"
+  },
+  "name": "1984",
+  "year_published": "1949",
+  "ISBN": "9780451524935",
+  "page_count": "328",
+  "format": "Paperback",
+  "edition": "First Edition",
+  "publication_date": "1949-06-08",
+  "weight": 0.8,
+  "language": "English",
+  "genre": {
+    "name": "Dystopian",
+    "description": "A novel presenting a terrifying vision of a controlled and totalitarian future society."
+  },
+  "publisher": {
+    "name": "Secker & Warburg",
+    "founder": "Martin Secker and Warburg",
+    "website": "https://www.penguin.co.uk/company/publishers/secker-and-warburg.html",
+    "address": {
+      "street": "80 Strand",
+      "postal_code": "WC2R 0RL",
+      "city": "London",
+      "state": "N/A",
+      "country": {
+        "name": "United Kingdom",
+        "abbreviation": "UK",
+        "nation": "GBR"
+      }
+    }
+  },
+  "book_event": {
+    "name": "Dystopian Future Symposium",
+    "date": "2024-06-08",
+    "description": "A symposium discussing the impact and relevance of 1984 in today's world."
+  },
+  "book_series": {
+    "name": "N/A",
+    "description": "N/A"
+  },
+  "authors": [
+    {
+      "first_name": "George",
+      "last_name": "Orwell",
+      "nationality": "British",
+      "biography": "Eric Arthur Blair, known by his pen name George Orwell, was an English novelist, essayist, journalist and critic.",
+      "website": "N/A",
+      "birth_date": "1903-06-25"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Prometheus Hall of Fame Award",
+      "year": 1984,
+      "organization_name": "Libertarian Futurist Society"
+    }
+  ],
+  "reviews": [
+    {
+      "user_id": "66661b68c81c416e91b2d41b",
+      "user_rating": 4.8,
+      "review_text": "A chilling depiction of a dystopian society that feels all too relevant.",
+      "review_date": "2023-03-15T10:30:00Z"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66661c88c81c416e91b2d425"
+  },
+  "name": "The Fellowship of the Ring",
+  "year_published": "1954",
+  "ISBN": "9780547928210",
+  "page_count": "423",
+  "format": "Hardcover",
+  "edition": "First Edition",
+  "publication_date": "1954-07-29",
+  "weight": 1.5,
+  "language": "English",
+  "genre": {
+    "name": "Fantasy",
+    "description": "An epic high-fantasy novel that is the first of three volumes in The Lord of the Rings trilogy."
+  },
+  "publisher": {
+    "name": "George Allen & Unwin",
+    "founder": "George Allen",
+    "website": "https://www.harpercollins.com",
+    "address": {
+      "street": "83-85 Fulham Road",
+      "postal_code": "SW3 6RD",
+      "city": "London",
+      "state": "N/A",
+      "country": {
+        "name": "United Kingdom",
+        "abbreviation": "UK",
+        "nation": "GBR"
+      }
+    }
+  },
+  "book_event": {
+    "name": "Middle-earth Festival",
+    "date": "2024-07-29",
+    "description": "A festival celebrating the works of J.R.R. Tolkien and the world of Middle-earth."
+  },
+  "book_series": {
+    "name": "The Lord of the Rings",
+    "description": "An epic high-fantasy series written by J.R.R. Tolkien."
+  },
+  "authors": [
+    {
+      "first_name": "J.R.R.",
+      "last_name": "Tolkien",
+      "nationality": "British",
+      "biography": "John Ronald Reuel Tolkien was an English writer, poet, philologist, and academic, best known as the author of the high-fantasy works The Hobbit and The Lord of the Rings.",
+      "website": "N/A",
+      "birth_date": "1892-01-03"
+    }
+  ],
+  "awards": [
+    {
+      "name": "International Fantasy Award",
+      "year": 1957,
+      "organization_name": "Science Fiction and Fantasy Writers of America"
+    }
+  ],
+  "reviews": [
+    {
+      "user_id": "66661b8bc81c416e91b2d41d",
+      "user_rating": 4.9,
+      "review_text": "A brilliant start to an epic saga filled with rich lore and memorable characters.",
+      "review_date": "2023-12-01T09:20:00Z"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66661c9fc81c416e91b2d427"
+  },
+  "name": "The Metamorphosis",
+  "year_published": "1915",
+  "ISBN": "9780553213690",
+  "page_count": "55",
+  "format": "Paperback",
+  "edition": "First Edition",
+  "publication_date": "1915-10-01",
+  "weight": 0.3,
+  "language": "German",
+  "genre": {
+    "name": "Novella",
+    "description": "A short novel that explores themes of alienation, identity, and existential anxiety."
+  },
+  "publisher": {
+    "name": "Kurt Wolff Verlag",
+    "founder": "Kurt Wolff",
+    "website": "N/A",
+    "address": {
+      "street": "Pfarrstrasse 14",
+      "postal_code": "04109",
+      "city": "Leipzig",
+      "state": "N/A",
+      "country": {
+        "name": "Germany",
+        "abbreviation": "DE",
+        "nation": "DEU"
+      }
+    }
+  },
+  "book_event": {
+    "name": "Kafkaesque Literature Symposium",
+    "date": "2024-10-01",
+    "description": "A symposium dedicated to the works of Franz Kafka and his influence on modern literature."
+  },
+  "book_series": {
+    "name": "N/A",
+    "description": "N/A"
+  },
+  "authors": [
+    {
+      "first_name": "Franz",
+      "last_name": "Kafka",
+      "nationality": "Austro-Hungarian",
+      "biography": "Franz Kafka was a German-speaking Bohemian novelist and short-story writer, widely regarded as one of the major figures of 20th-century literature.",
+      "website": "N/A",
+      "birth_date": "1883-07-03"
+    }
+  ],
+  "awards": [
+    {
+      "name": "N/A",
+      "year": "N/A",
+      "organization_name": "N/A"
+    }
+  ],
+  "reviews": [
+    {
+      "user_id": "66661bedc81c416e91b2d420",
+      "user_rating": 4.7,
+      "review_text": "A haunting and thought-provoking story that delves deep into the human condition.",
+      "review_date": "2023-08-15T11:05:00Z"
+    }
+  ]
+}]
